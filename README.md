@@ -1,2 +1,0 @@
-# studing
-my first project
